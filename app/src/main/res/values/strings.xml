@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Registros</string>
+    <string name="tituloAplicacion">Bitacora de Registro de Alumnos en Laboratorio de Computo</string>
+    <string name="action_settings">Acerca de...</string>
+    <string name="title_activity_datos">Registro</string>
+    <string name="matricula">Matricula</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidop">Apellido Paterno</string>
+    <string name="apellidom">Apellido Materno</string>
+    <string name="email">E-mail</string>
+    <string name="carrera">Carrera</string>
+    <string name="semestre">Semestre</string>
+    <string name="grado">Grupo</string>
+    <string name="maquina_a_utilizar">Maquina A Utilizar</string>
+
+    <string name="Usuario">INGRESE USUARIO</string>
+    <string name="Password">INGRESE CONTRASEÑA</string>
+
+    <string name="alta">Alta</string>
+    <string name="consulta">Consulta</string>
+    <string name="baja">Baja</string>
+    <string name="modificar">Modificar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Lista">Lista</string>
+    <string name="Salir">Salir</string>
+    <string name="Acercade">Acercar de ...</string>
+    <string name="title_activity_lista_bitacora">lista_bitacora</string>
+
+    <string name="d1">Dato1</string>
+    <string name="d2">Dato2</string>
+    <string name="d3">Dato3</string>
+    <string name="d4">Dato4</string>
+    <string name="d5">Dato5</string>
+    <string name="d6">Dato6</string>
+    <string name="d7">Dato7</string>
+    <string name="d8">Dato8</string>
+    <string name="d9">Dato9</string>
+
+
+
+    <string name="des">Aplicación Realizada Por:</string>
+    <string name="Nom">Erik Hernandez Moreno</string>
+    <string name="No">10930207</string>
+
+    <string name="res">all rights reserved©</string>
+    <string name="title_activity_acercade">Acercade</string>
+
+    <string name="hello_world">Hello world!</string>
+
+
+</resources>
